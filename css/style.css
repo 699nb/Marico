@@ -365,3 +365,43 @@ body{
 .step_collect .collect_h2{
     color: #919191;
 }
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.footer__logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.footer__logo h2{
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+    margin: 0;
+}
+.footer__logo img{
+    width: 35px;
+    height: 35px;
+}
+.footer__info p{
+    color: #707070;
+    font-size: 20px;
+}
+.footer__links ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.footer__links ul li a{
+    text-decoration: none;
+    color: #707070;
+    transition: 0.3s;
+    font-weight: 500;
+    font-size: 18px;
+}
+.footer__links ul li a:hover{
+    color: #306EF7;
+}
