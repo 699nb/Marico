@@ -405,3 +405,100 @@ body{
 .footer__links ul li a:hover{
     color: #306EF7;
 }
+.step__three{
+    text-align: center;
+    margin-top: 160px;
+}
+.step__three .p__three__color{
+    color: #3D82F2;
+    font-size: 20px;
+    font-weight: 600;
+}
+.step__three h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0;
+}
+.step__three p{
+    font-size: 30px;
+    font-weight: 300;
+    color: #707070;
+}
+.create{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+
+}
+.create__right{
+    text-align: left;
+    width: 600px;
+}
+.create__right p{
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+}
+.create__right h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+}
+.first__step__three{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.first__step__three img{
+    width: 30px;
+    height: 30px;
+}
+.first__step__three p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.second__step__three{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.second__step__three img{
+    width: 30px;
+    height: 30px;
+}
+.second__step__three p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.step__buttons__three{
+    margin-top: 60px;
+}
+.step__button__first{
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+    background-color: #326CF9;
+}
+.step__button__second{
+    width: 200px;
+    height: 50px;
+    color: #707070;
+    border: 1px solid #707070;
+    background-color: transparent;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.create__left img{
+    width: 700px;
+    height: 550px;
+    object-fit: cover;
+    position: relative;
+    left: 50px;
+    top: 40px;
+}
