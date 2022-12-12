@@ -200,3 +200,34 @@ body{
     font-weight: 600;
     margin: 0;
 }
+.step__one{
+    text-align: center;
+    margin-top: 160px;
+}
+.step__one .p__color{
+    color: #3D82F2;
+    font-size: 20px;
+    font-weight: 600;
+}
+.step__one h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0;
+}
+.step__one p{
+    font-size: 30px;
+    font-weight: 300;
+    color: #707070;
+}
+.step__one button{
+    width: 220px;
+    height: 60px;
+    background: transparent;
+    color: #707070;
+    border-radius: 10px;
+    border: 1px solid #707070;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: ;
+}
