@@ -136,3 +136,67 @@ body{
     font-size: 18px;
     color: white;
 }
+.love__banner{
+    text-align: center;
+    margin-top: 180px;
+}
+.love__banner h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+}
+.love__plus{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.love__plus p{
+    color: #707070;
+    font-size: 20px;
+}
+.love__first__bot{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.love__first__bot img{
+    width: 35px;
+    height: 35px;
+}
+.love__first__bot h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+}
+.love__second__bot{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.love__second__bot img{
+    width: 35px;
+    height: 35px;
+}
+.love__second__bot h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+}
+.love__third__bot{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.love__third__bot img{
+    width: 35px;
+    height: 35px;
+}
+.love__third__bot h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+}
