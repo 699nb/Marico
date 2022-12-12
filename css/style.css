@@ -70,3 +70,69 @@ body{
     background-color: #306EF7;
     color: white;
 }
+.banner{
+    text-align: center;
+    margin-top: 100px;
+}
+.main__banner h1{
+    color: white;
+    font-size: 100px;
+    font-weight: 700;
+    margin: 0;
+}
+.main__banner h2{
+    color: #FE6783;
+    font-size: 100px;
+    font-weight: 700;
+    margin: 0;
+}
+.start__banner{
+    margin-top: 80px;
+}
+.start__banner p{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+}
+.first__button{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    color: #326CF9;
+    font-size: 18px;
+    transition: 0.5s;
+    border-radius: 15px;
+}
+.first__button:hover{
+    background-color: #326CF9;
+    color: white;
+}
+.second__button{
+    width: 200px;
+    height: 50px;
+    background-color: #326CF9;
+    border: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    transition: 0.5s;
+    border-radius: 15px;
+}
+.info__banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.info__banner p{
+    font-size: 18px;
+    color: #707070;
+    font-weight: 500;
+}
+.info__banner h2{
+    margin: 0;
+    font-size: 18px;
+    color: white;
+}
