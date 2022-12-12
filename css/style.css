@@ -235,7 +235,7 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-top: 150px;
-    position: absolute;
+
 }
 .homePage__right{
     text-align: left;
@@ -306,4 +306,62 @@ body{
     position: relative;
     left: 50px;
     top: 40px;
+}
+
+.step_two{
+    text-align: center;
+    margin-top: 180px;
+}
+.step_two .p_two_color{
+    color: #3D82F2;
+    font-size: 20px;
+    font-weight: 600;
+}
+.step_two h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0;
+}
+.step_two{
+    font-size: 30px;
+    font-weight: 300;
+    color: #707070;
+}
+.step_two_content{
+    display: flex;
+    gap: 25px;
+}
+.step_oneclick{
+    width: 854px;
+    height: 666px;
+    background: #0D0D0D;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 10px;
+}
+.step_oneclick p {
+    color: #0FC65C;
+    font-weight: 400;
+    font-size: 30px;
+}
+.step_oneclick .oneclick_h2 {
+    color: #919191;
+}
+.step_oneclick img{
+    width: 100%;
+    padding-left: 90px;
+}
+.step_collect{
+    width: 854px;
+    height: 666px;
+    background: #0D0D0D;
+}
+.step_collect p{
+    color: #0FC65C;
+    font-weight: 400;
+    font-size: 30px;
+}
+.step_collect .collect_h2{
+    color: #919191;
 }
