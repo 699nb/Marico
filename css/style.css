@@ -532,3 +532,54 @@ body{
     font-size: 60px;
     font-weight: 600;
 }
+.start{
+    text-align: center;
+    margin-top: 100px;
+}
+.start img{
+    width: 160px;
+    height: 150px;
+    object-fit: cover;
+}
+.start h2{
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+    margin-top: 10px;
+}
+.start p{
+    font-size: 28px;
+    font-weight: 400;
+    color: white;
+}
+.start button{
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    color: #326CF9;
+    border: 1px solid #326CF9;
+    border-radius: 20px;
+    font-size: 28px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.start button:hover{
+    background-color: #326CF9;
+    color: white;
+}
+.start__plus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.start__plus h3{
+    color: white;
+    margin: 0;
+    font-size: 28px;
+}
+.start__plus p{
+    color: #707070;
+    font-size: 28px;
+}
